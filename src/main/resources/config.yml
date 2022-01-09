@@ -1,0 +1,3 @@
+afk-time: 1 # MINUTES
+# WHEN A PLAYER ROTATES, SHOULD THEIR TIMER RESET:
+reset-on-rotation: false

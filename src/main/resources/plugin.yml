@@ -1,0 +1,6 @@
+name: LureAfk
+version: '${project.version}'
+main: com.katnissali.lureafk.LureAfk
+api-version: 1.16
+commands:
+  afk:
